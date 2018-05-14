@@ -7,7 +7,7 @@ StarWars characters open-source REST API
 
 or cached CDN (faster)
 
-`https://cdn.rawgit.com/akabab/starwars-api/0.1.0/api`
+`https://cdn.rawgit.com/akabab/starwars-api/0.1.1/api`
 
 
 ### [routes](#routes-1)
@@ -20,4 +20,4 @@ or cached CDN (faster)
 ##### `/all.json`
 GET all characters as a single JSON object
 
-eg. [`/all.json`](https://cdn.rawgit.com/akabab/starwars-api/0.1.0/api/all.json)
+eg. [`/all.json`](https://cdn.rawgit.com/akabab/starwars-api/0.1.1/api/all.json)
