@@ -70,3 +70,8 @@ eg. [`/id/1.json`](https://cdn.rawgit.com/akabab/starwars-api/0.2.1/api/id/1.jso
   "formerAffiliations": []
 }
 ```
+
+
+### Notes
+
+/!\ Some properties may not be provided on some characters
