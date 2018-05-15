@@ -1,0 +1,34 @@
+{
+  "id": 20,
+  "name": "Yoda",
+  "height": 0.66,
+  "mass": 13,
+  "gender": "male",
+  "wiki": "http://starwars.wikia.com/wiki/Yoda",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png",
+  "born": -896,
+  "died": 4,
+  "diedLocation": "dagobah",
+  "species": "yoda's species",
+  "hairColor": "white",
+  "eyeColor": "green-gold",
+  "skinColor": "green",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Galactic Republic",
+    "Grand Army of the Republic"
+  ],
+  "masters": [
+    "Unidentified Jedi (Jedi Master)",
+    "Garro (stonepower master)",
+    "Qui-Gon Jinn (as Force spirit)"
+  ],
+  "apprentices": [
+    "Dooku (Padawan)",
+    "Obi-Wan Kenobi",
+    "Luke Skywalker",
+    "Anakin Skywalker (as Force spirit)"
+  ],
+  "formerAffiliations": []
+}

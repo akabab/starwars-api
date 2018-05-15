@@ -1,0 +1,21 @@
+{
+  "id": 33,
+  "name": "Nute Gunray",
+  "height": 1.91,
+  "mass": 90,
+  "gender": "male",
+  "homeworld": "neimoidia",
+  "wiki": "http://starwars.wikia.com/wiki/Nute_Gunray",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fd/Nute_Gunray_SWE.png",
+  "died": -19,
+  "diedLocation": "mustafar",
+  "species": "neimoidian",
+  "eyeColor": "red",
+  "skinColor": "green",
+  "affiliations": [
+    "Trade Federation",
+    "Confederacy of Independent Systems",
+    "Separatist Council"
+  ],
+  "formerAffiliations": []
+}

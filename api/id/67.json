@@ -1,0 +1,39 @@
+{
+  "id": 67,
+  "name": "Dooku",
+  "height": 1.93,
+  "mass": 86,
+  "gender": "male",
+  "homeworld": "serenno",
+  "wiki": "http://starwars.wikia.com/wiki/Dooku",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/b/b8/Dooku_Headshot.jpg",
+  "born": -102,
+  "died": -19,
+  "diedLocation": "aboard invisible hand over coruscant",
+  "species": "human",
+  "hairColor": "white",
+  "eyeColor": "brown, yellowred (vision dark side)",
+  "skinColor": "light",
+  "affiliations": [
+    "House of Dooku",
+    "Lost Twenty",
+    "Sith",
+    "Independent Movement for Self-Determination",
+    "Confederacy of Independent Systems"
+  ],
+  "masters": [
+    "Yoda (Jedi)",
+    "Darth Sidious (Sith)"
+  ],
+  "apprentices": [
+    "Qui-Gon Jinn (Jedi)",
+    "Grievous (lightsaber trainee)",
+    "Asajj Ventress",
+    "Savage Opress (Sith)",
+    "Quinlan Vos (Sith)"
+  ],
+  "formerAffiliations": [
+    "Jedi Order",
+    "Galactic Republic"
+  ]
+}

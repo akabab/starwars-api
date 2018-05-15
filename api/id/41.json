@@ -1,0 +1,15 @@
+{
+  "id": 41,
+  "name": "Sebulba",
+  "height": 1.12,
+  "mass": 40,
+  "gender": "male",
+  "homeworld": "malastare",
+  "wiki": "http://starwars.wikia.com/wiki/Sebulba",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/1/14/Sebulba_Headshot_Closeup.png",
+  "species": "dug",
+  "eyeColor": "yellow",
+  "skinColor": "purple and beige",
+  "affiliations": [],
+  "formerAffiliations": []
+}

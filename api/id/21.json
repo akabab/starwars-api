@@ -1,0 +1,52 @@
+{
+  "id": 21,
+  "name": "Palpatine",
+  "height": 1.78,
+  "mass": 75,
+  "gender": "male",
+  "homeworld": "naboo",
+  "wiki": "http://starwars.wikia.com/wiki/Palpatine",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d8/Emperor_Sidious.png",
+  "born": -82,
+  "bornLocation": "naboo",
+  "died": 4,
+  "diedLocation": "death star ii (original body)",
+  "species": "human",
+  "hairColor": "red, later gray and white",
+  "eyeColor": "blue; yellow/red (dark side)",
+  "skinColor": "fair, later pale",
+  "era": [
+    "Rise of the Empire era",
+    "Rebellion era",
+    "New Republic era"
+  ],
+  "affiliations": [
+    "House Palpatine",
+    "Damask Holdings",
+    "Royal House of Naboo",
+    "Sith",
+    "Order of the Sith Lords",
+    "Naboo Diplomatic Corps",
+    "Galactic Republic",
+    "Galactic Senate",
+    "Trade Federation",
+    "Confederacy of Independent Systems",
+    "Galactic Empire",
+    "Dark Empire"
+  ],
+  "masters": "Darth Plagueis",
+  "apprentices": [
+    "Darth Maul",
+    "A Nikto",
+    "Vergere",
+    "Darth Tyranus",
+    "Garth Ezzar",
+    "Darth Vader",
+    "Ferus Olin (informal)",
+    "Mara Jade",
+    "Cronal",
+    "Lumiya",
+    "Luke Skywalker (briefly)"
+  ],
+  "formerAffiliations": []
+}

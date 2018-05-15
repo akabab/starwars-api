@@ -1,0 +1,24 @@
+{
+  "id": 63,
+  "name": "Poggle the Lesser",
+  "height": 1.75,
+  "mass": 80,
+  "gender": "male",
+  "homeworld": "geonosis",
+  "wiki": "http://starwars.wikia.com/wiki/Poggle_the_Lesser",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/9/93/Poggle_the_lesser_-_sw_card_trader.png",
+  "died": -19,
+  "diedLocation": "mustafar",
+  "species": "geonosian",
+  "eyeColor": "yellow",
+  "affiliations": [
+    "Stalgasin hive",
+    "Karina the Great's empire",
+    "Techno Union",
+    "Confederacy of Independent Systems",
+    "Separatist Council",
+    "Galactic Republic"
+  ],
+  "skinColor": "green",
+  "formerAffiliations": []
+}

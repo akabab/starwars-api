@@ -1,0 +1,33 @@
+{
+  "id": 5,
+  "name": "Leia Organa",
+  "height": 1.5,
+  "mass": 51,
+  "gender": "female",
+  "homeworld": "alderaan",
+  "wiki": "http://starwars.wikia.com/wiki/Leia_Organa",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fc/Leia_Organa_TLJ.png",
+  "born": -19,
+  "bornLocation": "polis massa (2 days after empire day)",
+  "species": "human",
+  "hairColor": "brown, later graying",
+  "eyeColor": "brown",
+  "skinColor": "light",
+  "affiliations": [
+    "Elder Houses",
+    "House of Organa",
+    "Galactic Empire",
+    "Imperial Senate",
+    "Alliance to Restore the Republic",
+    "Massassi Group",
+    "Leia Organa's team",
+    "Endor strike team",
+    "Alliance High Command",
+    "Bright Tree tribe",
+    "New Republic",
+    "Populists",
+    "Resistance"
+  ],
+  "masters": "Luke Skywalker",
+  "formerAffiliations": []
+}

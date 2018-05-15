@@ -1,0 +1,25 @@
+{
+  "id": 28,
+  "name": "Mon Mothma",
+  "height": 1.73,
+  "gender": "female",
+  "homeworld": "chandrila",
+  "wiki": "http://starwars.wikia.com/wiki/Mon_Mothma",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/b/b7/MP-MonMothma.png",
+  "born": -46,
+  "species": "human",
+  "hairColor": "auburn",
+  "eyeColor": "pale blue-green",
+  "skinColor": "light",
+  "affiliations": [
+    "Galactic Republic",
+    "Loyalist Committee",
+    "Delegation of 2,000",
+    "Galactic Empire",
+    "Imperial Senate",
+    "Mon Mothma's rebel cell",
+    "Alliance to Restore the Republic",
+    "New Republic"
+  ],
+  "formerAffiliations": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": 14,
+  "name": "Han Solo",
+  "height": 1.8,
+  "mass": 80,
+  "gender": "male",
+  "homeworld": "corellia",
+  "wiki": "http://starwars.wikia.com/wiki/Han_Solo",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/e/e2/TFAHanSolo.png",
+  "born": -29,
+  "bornLocation": "corellia",
+  "died": 34,
+  "diedLocation": "starkiller base",
+  "species": "human",
+  "hairColor": "brown, later gray",
+  "eyeColor": "hazel",
+  "skinColor": "light",
+  "affiliations": [
+    "Galactic Empire",
+    "Jabba Desilijic Tiure's criminal empire",
+    "Alliance to Restore the Republic",
+    "Leia Organa's team",
+    "Endor strike team",
+    "Kingdom of Han",
+    "Bright Tree tribe",
+    "New Republic",
+    "New Republic Pilots Commission",
+    "Han Solo's shipping company",
+    "Resistance"
+  ],
+  "formerAffiliations": []
+}

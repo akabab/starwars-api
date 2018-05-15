@@ -1,0 +1,27 @@
+{
+  "id": 46,
+  "name": "Ayla Secura",
+  "height": 1.7,
+  "mass": 55,
+  "gender": "female",
+  "homeworld": "ryloth",
+  "wiki": "http://starwars.wikia.com/wiki/Aayla_Secura/Legends",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f9/Aayla.jpg",
+  "born": -48,
+  "died": -19,
+  "diedLocation": "felucia",
+  "species": "twi'lek",
+  "eyeColor": "hazel",
+  "skinColor": "blue",
+  "era": "Rise of the Empire era",
+  "affiliations": [
+    "Jedi Order",
+    "Galactic Republic"
+  ],
+  "masters": [
+    "Quinlan Vos (Jedi Master)",
+    "Volfe Karkko (Dark Jedi master) (briefly)",
+    "Tholme (Jedi Master)"
+  ],
+  "formerAffiliations": []
+}

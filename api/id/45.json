@@ -1,0 +1,19 @@
+{
+  "id": 45,
+  "name": "Bib Fortuna",
+  "height": 2,
+  "gender": "male",
+  "homeworld": "ryloth",
+  "wiki": "http://starwars.wikia.com/wiki/Bib_Fortuna",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/3/33/BibFortunaHS-ROTJ.png",
+  "died": 4,
+  "diedLocation": "tatooine",
+  "species": "twi'lek",
+  "eyeColor": "pink",
+  "skinColor": "light",
+  "affiliations": [
+    "Fortuna family",
+    "Jabba Desilijic Tiure's criminal empire"
+  ],
+  "formerAffiliations": []
+}

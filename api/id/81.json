@@ -1,0 +1,22 @@
+{
+  "id": 81,
+  "name": "Raymus Antilles",
+  "height": 1.88,
+  "mass": 79,
+  "gender": "male",
+  "homeworld": "alderaan",
+  "wiki": "http://starwars.wikia.com/wiki/Raymus_Antilles",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/8/80/Raymus_card_trader.png",
+  "died": 0,
+  "diedLocation": "tantive iv, tatoo system",
+  "species": "human",
+  "hairColor": "brown",
+  "eyeColor": "brown",
+  "skinColor": "fair",
+  "affiliations": [
+    "House of Organa",
+    "Alliance to Restore the Republic",
+    "Alliance Military"
+  ],
+  "formerAffiliations": []
+}

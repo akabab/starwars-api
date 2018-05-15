@@ -1,0 +1,18 @@
+{
+  "id": 29,
+  "name": "Arvel Crynyd",
+  "gender": "male",
+  "wiki": "http://starwars.wikia.com/wiki/Arvel_Crynyd",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/d/de/Arvel-crynyd.jpg",
+  "died": 4,
+  "diedLocation": "executor",
+  "species": "human",
+  "eyeColor": "brown",
+  "skinColor": "light",
+  "affiliations": [
+    "Alliance to Restore the Republic",
+    "Green Squadron"
+  ],
+  "hairColor": "brown",
+  "formerAffiliations": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": 44,
+  "name": "Darth Maul",
+  "height": 1.75,
+  "mass": 80,
+  "gender": "male",
+  "homeworld": "dathomir",
+  "wiki": "http://starwars.wikia.com/wiki/Darth_Maul",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/5/50/Darth_Maul_profile.png",
+  "died": -2,
+  "diedLocation": "tatooine",
+  "species": "dathomirian zabrak",
+  "eyeColor": "yellow and red",
+  "skinColor": "red (black tattoos)",
+  "cybernetics": [
+    "Six-legged apparatus (formerly)",
+    "Two cybernetic legs"
+  ],
+  "affiliations": [
+    "Nightbrothers",
+    "Sith",
+    "Cad Bane's group",
+    "Death Watch",
+    "Shadow Collective"
+  ],
+  "masters": "Darth Sidious",
+  "apprentices": "Savage Opress",
+  "born": -54,
+  "formerAffiliations": [
+    "Trade Federation"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 64,
+  "name": "Luminara Unduli",
+  "height": 1.76,
+  "mass": 56.2,
+  "gender": "female",
+  "homeworld": "mirial",
+  "wiki": "http://starwars.wikia.com/wiki/Luminara_Unduli",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/2/21/LuminaraHS-SWE_%28new%29.png",
+  "died": 66,
+  "species": "mirialan",
+  "hairColor": "black",
+  "eyeColor": "royal-blue",
+  "skinColor": "green (with black tattoos)",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi assault team",
+    "Galactic Republic",
+    "41st Elite Corps"
+  ],
+  "apprentices": "Barriss Offee",
+  "born": -58,
+  "formerAffiliations": []
+}

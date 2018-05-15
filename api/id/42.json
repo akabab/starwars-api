@@ -1,0 +1,24 @@
+{
+  "id": 42,
+  "name": "Quarsh Panaka",
+  "height": 1.83,
+  "gender": "male",
+  "homeworld": "naboo",
+  "wiki": "http://starwars.wikia.com/wiki/Quarsh_Panaka",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/7/72/PanakaHS-TPM.png",
+  "died": -3,
+  "diedLocation": "onoam",
+  "species": "human",
+  "hairColor": "black, later with flecks of gray",
+  "eyeColor": "brown",
+  "skinColor": "dark",
+  "affiliations": [
+    "Royal House of Naboo",
+    "Royal Naboo Security Forces",
+    "Galactic Republic",
+    "Republic Special Task Force",
+    "Galactic Empire"
+  ],
+  "born": -62,
+  "formerAffiliations": []
+}

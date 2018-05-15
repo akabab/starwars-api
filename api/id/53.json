@@ -1,0 +1,24 @@
+{
+  "id": 53,
+  "name": "Kit Fisto",
+  "height": 1.96,
+  "mass": 87,
+  "gender": "male",
+  "homeworld": "glee anselm",
+  "wiki": "http://starwars.wikia.com/wiki/Kit_Fisto",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4c/Kit_Fisto_Card_Trader.png",
+  "died": -19,
+  "diedLocation": "coruscant",
+  "species": "nautolan",
+  "eyeColor": "black",
+  "skinColor": "green",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Jedi assault team",
+    "Mace Windu's squad",
+    "Galactic Republic"
+  ],
+  "apprentices": "Nahdar Vebb",
+  "formerAffiliations": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": 32,
+  "name": "Qui-Gon Jinn",
+  "height": 1.93,
+  "mass": 89,
+  "gender": "male",
+  "homeworld": "coruscant",
+  "wiki": "http://starwars.wikia.com/wiki/Qui-Gon_Jinn",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f6/Qui-Gon_Jinn_Headshot_TPM.jpg",
+  "died": -32,
+  "diedLocation": "naboo",
+  "species": "human",
+  "hairColor": "brown",
+  "eyeColor": "blue",
+  "skinColor": "light",
+  "affiliations": [
+    "Jedi Order",
+    "Galactic Republic"
+  ],
+  "masters": "Dooku",
+  "apprentices": [
+    "Obi-Wan Kenobi",
+    "Anakin Skywalker (informally)",
+    "Yoda (as Force spirit)"
+  ],
+  "born": -92,
+  "formerAffiliations": []
+}

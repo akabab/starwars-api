@@ -1,0 +1,20 @@
+{
+  "id": 74,
+  "name": "Jocasta Nu",
+  "height": 1.69,
+  "gender": "female",
+  "homeworld": "coruscant",
+  "wiki": "http://starwars.wikia.com/wiki/Jocasta_Nu",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/1/15/Jocasta_Nu_SWE.png",
+  "died": -19,
+  "diedLocation": "coruscant",
+  "species": "human",
+  "hairColor": "white",
+  "eyeColor": "blue",
+  "skinColor": "light",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council"
+  ],
+  "formerAffiliations": []
+}

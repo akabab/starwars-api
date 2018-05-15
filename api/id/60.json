@@ -1,0 +1,20 @@
+{
+  "id": 60,
+  "name": "Gregar Typho",
+  "height": 1.85,
+  "mass": 85,
+  "gender": "male",
+  "homeworld": "naboo",
+  "wiki": "http://starwars.wikia.com/wiki/Gregar_Typho",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/5/52/Gregar_Typho.jpg",
+  "species": "human",
+  "hairColor": "black",
+  "eyeColor": "brown",
+  "affiliations": [
+    "Royal House of Naboo",
+    "Royal Naboo Security Forces",
+    "Galactic Republic"
+  ],
+  "skinColor": "dark",
+  "formerAffiliations": []
+}

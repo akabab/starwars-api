@@ -1,0 +1,39 @@
+{
+  "id": 68,
+  "name": "Bail Prestor Organa",
+  "height": 1.91,
+  "gender": "male",
+  "homeworld": "alderaan",
+  "wiki": "http://starwars.wikia.com/wiki/Bail_Prestor_Organa",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/5/50/Bail_Organa_Mug.jpg",
+  "born": -67,
+  "died": 0,
+  "diedLocation": "alderaan",
+  "species": "human",
+  "hairColor": "black",
+  "eyeColor": "brown",
+  "skinColor": "tan",
+  "era": [
+    "Rise of the Empire era",
+    "Rebellion era"
+  ],
+  "affiliations": [
+    "House of Organa",
+    "High Court of Alderaan",
+    "Galactic Republic",
+    "Galactic Senate",
+    "Loyalist Committee",
+    "Security Committee",
+    "Delegation of 2000",
+    "Galactic Empire",
+    "Imperial Senate",
+    "Finance Committee",
+    "Appropriations Committee",
+    "Intelligence Oversight Committee",
+    "Military Oversight Committee",
+    "Alderaanian Resistance",
+    "Kota's Militia",
+    "Alliance to Restore the Republic"
+  ],
+  "formerAffiliations": []
+}

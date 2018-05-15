@@ -1,0 +1,21 @@
+{
+  "id": 85,
+  "name": "Rey",
+  "height": 1.7,
+  "mass": 54,
+  "gender": "female",
+  "homeworld": "jakku",
+  "wiki": "http://starwars.wikia.com/wiki/Rey",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f8/ReyTLJEntertainmentWeeklyNovember.png",
+  "born": 15,
+  "species": "human",
+  "hairColor": "brown",
+  "eyeColor": "hazel",
+  "skinColor": "light",
+  "affiliations": [
+    "Resistance",
+    "Jedi Order"
+  ],
+  "masters": "Luke Skywalker",
+  "formerAffiliations": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": 13,
+  "name": "Chewbacca",
+  "height": 2.28,
+  "mass": 112,
+  "gender": "male",
+  "homeworld": "kashyyyk",
+  "wiki": "http://starwars.wikia.com/wiki/Chewbacca",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/4/48/Chewbacca_TLJ.png",
+  "born": -200,
+  "bornLocation": "kashyyyk",
+  "species": "wookiee",
+  "hairColor": "brown",
+  "eyeColor": "blue",
+  "affiliations": [
+    "Galactic Republic",
+    "Alliance to Restore the Republic",
+    "Leia Organa's team",
+    "Pathfinders",
+    "Endor strike team",
+    "Bright Tree tribe",
+    "New Republic",
+    "Resistance"
+  ],
+  "formerAffiliations": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": 23,
+  "name": "IG-88",
+  "height": 1.96,
+  "mass": 140,
+  "gender": "male",
+  "species": "droid",
+  "wiki": "http://starwars.wikia.com/wiki/IG-88",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f2/IG-88.png",
+  "dateDestroyed": 3,
+  "destroyedLocation": "bespin",
+  "manufacturer": "Holowan Laboratories",
+  "productLine": "IG-series",
+  "model": "IG-88 assassin droid",
+  "class": "Assassin droid",
+  "degree": "Class 4",
+  "sensorColor": "red",
+  "platingColor": "chrome",
+  "armament": [
+    "Blaster rifles",
+    "Concussion discs",
+    "DAS-430 Neural Inhibitor",
+    "Flamethrower",
+    "Needle dart gun",
+    "Poison darts",
+    "Pulse cannons",
+    "Sonic device",
+    "Toxic gas dispensers",
+    "Vibroblades"
+  ],
+  "equipment": [
+    "Acid-proof servo wires",
+    "Heat sensor",
+    "Sound sensor",
+    "Vocoder"
+  ],
+  "skinColor": "metal",
+  "eyeColor": "red",
+  "born": -15,
+  "affiliations": [],
+  "formerAffiliations": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": 71,
+  "name": "Dexter Jettster",
+  "height": 1.88,
+  "mass": 102,
+  "gender": "male",
+  "homeworld": "ojom",
+  "wiki": "http://starwars.wikia.com/wiki/Dexter_Jettster",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/6/6c/DexterHS-SWE.jpg",
+  "species": "besalisk",
+  "hairColor": "brown-black",
+  "eyeColor": "yellow",
+  "skinColor": "tan-brown",
+  "affiliations": [
+    "Dex's Diner"
+  ],
+  "formerAffiliations": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": 26,
+  "name": "Lobot",
+  "height": 1.75,
+  "mass": 79,
+  "gender": "male",
+  "homeworld": "bespin",
+  "wiki": "http://starwars.wikia.com/wiki/Lobot",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/9/96/SWE_Lobot.jpg",
+  "species": "human",
+  "eyeColor": "blue",
+  "skinColor": "light",
+  "cybernetics": "AJ^6 cyborg construct",
+  "affiliations": [
+    "Galactic Empire",
+    "Imperial Military",
+    "Cloud City",
+    "Alliance to Restore the Republic",
+    "New Republic"
+  ],
+  "born": -37,
+  "formerAffiliations": []
+}

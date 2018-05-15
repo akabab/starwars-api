@@ -1,0 +1,31 @@
+{
+  "id": 12,
+  "name": "Wilhuff Tarkin",
+  "height": 1.82,
+  "gender": "male",
+  "homeworld": "eriadu",
+  "wiki": "http://starwars.wikia.com/wiki/Wilhuff_Tarkin",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/c/c1/Tarkininfobox.jpg",
+  "born": -64,
+  "died": 0,
+  "diedLocation": " death star, yavin system",
+  "species": "human",
+  "hairColor": "auburn, later gray",
+  "eyeColor": "gray-blue",
+  "skinColor": "light",
+  "affiliations": [
+    "Galactic Republic",
+    "Sullust Sector Spacefarers Academy",
+    "Judicial Forces",
+    "Republic Navy",
+    "Strategic Advisory Cell",
+    "Outland Regions Security Force",
+    "Outland's anti-pirate taskforce",
+    "Galactic Empire",
+    "Battle Station Command",
+    "Imperial Officer Corps",
+    "Imperial Navy",
+    "Tarkin Initiative"
+  ],
+  "formerAffiliations": []
+}

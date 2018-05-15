@@ -1,0 +1,23 @@
+{
+  "id": 36,
+  "name": "Jar Jar Binks",
+  "height": 1.96,
+  "mass": 66,
+  "gender": "male",
+  "homeworld": "naboo",
+  "wiki": "http://starwars.wikia.com/wiki/Jar_Jar_Binks",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d2/Jar_Jar_aotc.jpg",
+  "species": "gungan",
+  "eyeColor": "yellow",
+  "skinColor": "orange and white",
+  "affiliations": [
+    "Gungan High Council",
+    "Officer corps",
+    "Galactic Republic",
+    "Naboo delegation",
+    "Galactic Empire",
+    "Imperial Senate"
+  ],
+  "born": -52,
+  "formerAffiliations": []
+}

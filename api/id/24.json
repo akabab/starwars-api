@@ -1,0 +1,21 @@
+{
+  "id": 24,
+  "name": "Bossk",
+  "height": 1.9,
+  "mass": 113,
+  "gender": "male",
+  "homeworld": "trandosha",
+  "wiki": "http://starwars.wikia.com/wiki/Bossk",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/1/1d/Bossk.png",
+  "species": "trandoshan",
+  "eyeColor": "orange",
+  "skinColor": "green",
+  "affiliations": [
+    "Bounty Hunters' Guild",
+    "Boba Fett's syndicate",
+    "Galactic Empire",
+    "Chelli Aphra's crew"
+  ],
+  "born": -53,
+  "formerAffiliations": []
+}

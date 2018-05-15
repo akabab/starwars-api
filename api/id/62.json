@@ -1,0 +1,19 @@
+{
+  "id": 62,
+  "name": "Cliegg Lars",
+  "height": 1.83,
+  "gender": "male",
+  "homeworld": "tatooine",
+  "wiki": "http://starwars.wikia.com/wiki/Cliegg_Lars",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/3/36/ClieggLarsHS-SWE.jpg",
+  "died": -22,
+  "species": "human",
+  "hairColor": "light brown",
+  "eyeColor": "blue",
+  "skinColor": "fair",
+  "affiliations": [
+    "Lars family"
+  ],
+  "born": -82,
+  "formerAffiliations": []
+}

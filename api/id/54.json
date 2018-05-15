@@ -1,0 +1,20 @@
+{
+  "id": 54,
+  "name": "Eeth Koth",
+  "height": 1.71,
+  "gender": "male",
+  "homeworld": "nar shaddaa",
+  "wiki": "http://starwars.wikia.com/wiki/Eeth_Koth",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4e/EethKothCardTrader.png",
+  "species": "iridonian zabrak",
+  "hairColor": "black",
+  "eyeColor": "brown",
+  "skinColor": "tan",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Jedi assault team",
+    "Galactic Republic"
+  ],
+  "formerAffiliations": []
+}

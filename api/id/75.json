@@ -1,0 +1,22 @@
+{
+  "id": 75,
+  "name": "R4-P17",
+  "height": 1.09,
+  "gender": "female",
+  "species": "droid",
+  "wiki": "http://starwars.wikia.com/wiki/R4-P17",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/6/6b/R4-P17.jpg",
+  "dateDestroyed": -19,
+  "destroyedLocation": "coruscant system",
+  "manufacturer": "Industrial Automaton",
+  "productLine": "R-series",
+  "class": "Astromech droid",
+  "platingColor": "red",
+  "armament": "Electro-shock prod",
+  "affiliations": [
+    "Galactic Republic"
+  ],
+  "skinColor": "silver, red",
+  "eyeColor": "red, blue",
+  "formerAffiliations": []
+}

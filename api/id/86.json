@@ -1,0 +1,26 @@
+{
+  "id": 86,
+  "name": "Poe Dameron",
+  "height": 1.72,
+  "mass": 80,
+  "gender": "male",
+  "homeworld": "yavin 4",
+  "wiki": "http://starwars.wikia.com/wiki/Poe_Dameron",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/7/79/Poe_Dameron_TLJ.png",
+  "born": 2,
+  "species": "human",
+  "hairColor": "brown",
+  "eyeColor": "brown",
+  "skinColor": "tan",
+  "affiliations": [
+    "New Republic",
+    "Rapier Squadron",
+    "Resistance",
+    "Squadron",
+    "Black Squadron",
+    "Blue Squadron",
+    "Red Squadron",
+    "\"Reb\" Squadron"
+  ],
+  "formerAffiliations": []
+}

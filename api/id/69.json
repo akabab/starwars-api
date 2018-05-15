@@ -1,0 +1,22 @@
+{
+  "id": 69,
+  "name": "Jango Fett",
+  "height": 1.83,
+  "mass": 79,
+  "gender": "male",
+  "homeworld": "concord dawn",
+  "wiki": "http://starwars.wikia.com/wiki/Jango_Fett",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/5/56/JangoInfobox.png",
+  "died": -22,
+  "diedLocation": "geonosis",
+  "species": "human",
+  "hairColor": "black",
+  "eyeColor": "brown",
+  "skinColor": "tan",
+  "affiliations": [
+    "Confederacy of Independent Systems",
+    "Tyranus"
+  ],
+  "born": -66,
+  "formerAffiliations": []
+}

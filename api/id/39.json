@@ -1,0 +1,19 @@
+{
+  "id": 39,
+  "name": "Ric Olié",
+  "height": 1.83,
+  "gender": "male",
+  "homeworld": "naboo",
+  "wiki": "http://starwars.wikia.com/wiki/Ric_Oli%C3%A9",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4c/RicOlieHS-SWE.png",
+  "species": "human",
+  "hairColor": "light brown",
+  "eyeColor": "bluish green",
+  "affiliations": [
+    "Royal House of Naboo",
+    "Royal Naboo Security Forces",
+    "Bravo Flight"
+  ],
+  "skinColor": "fair",
+  "formerAffiliations": []
+}

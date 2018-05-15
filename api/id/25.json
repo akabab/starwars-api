@@ -1,0 +1,26 @@
+{
+  "id": 25,
+  "name": "Lando Calrissian",
+  "height": 1.77,
+  "mass": 79,
+  "gender": "male",
+  "homeworld": "socorro",
+  "wiki": "http://starwars.wikia.com/wiki/Lando_Calrissian",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/8/8f/Lando_ROTJ.png",
+  "born": -30,
+  "species": "human",
+  "hairColor": "black",
+  "eyeColor": "brown",
+  "skinColor": "dark",
+  "affiliations": [
+    "Cloud City colony",
+    "Galactic Empire",
+    "Alliance to Restore the Republic",
+    "Gold Squadron",
+    "New Republic",
+    "New Republic military",
+    "Uprising",
+    "Calrissian Enterprises"
+  ],
+  "formerAffiliations": []
+}

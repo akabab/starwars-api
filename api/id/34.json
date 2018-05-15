@@ -1,0 +1,20 @@
+{
+  "id": 34,
+  "name": "Finis Valorum",
+  "height": 1.7,
+  "gender": "male",
+  "homeworld": "coruscant",
+  "wiki": "http://starwars.wikia.com/wiki/Finis_Valorum",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/5/51/ValorumPortrait-SWE.png",
+  "species": "human",
+  "hairColor": "white",
+  "eyeColor": "blue",
+  "skinColor": "fair",
+  "affiliations": [
+    "House Valorum",
+    "Galactic Republic",
+    "Galactic Senate"
+  ],
+  "born": -91,
+  "formerAffiliations": []
+}

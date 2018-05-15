@@ -1,0 +1,15 @@
+{
+  "id": 48,
+  "name": "Dud Bolt",
+  "height": 0.94,
+  "mass": 45,
+  "gender": "male",
+  "homeworld": "vulpter",
+  "wiki": "http://starwars.wikia.com/wiki/Dud_Bolt",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/7/73/Dud_Bolt_Podracer_Cockpit.png",
+  "species": "vulptereen",
+  "eyeColor": "yellow",
+  "skinColor": "blue-gray, yellow, white",
+  "affiliations": [],
+  "formerAffiliations": []
+}

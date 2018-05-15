@@ -1,0 +1,27 @@
+{
+  "id": 16,
+  "name": "Jabba Desilijic Tiure",
+  "height": 3.9,
+  "mass": 1358,
+  "gender": "male",
+  "homeworld": "tatooine",
+  "wiki": "http://starwars.wikia.com/wiki/Jabba_Desilijic_Tiure",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7f/Jabba_SWSB.png",
+  "born": -600,
+  "died": 4,
+  "diedLocation": "tatooine",
+  "species": "hutt",
+  "eyeColor": "orange",
+  "skinColor": "green and tan",
+  "kajidic": "Desilijic",
+  "affiliations": [
+    "Hutt Clan",
+    "Grand Hutt Council",
+    "Jabba Desilijic Tiure's criminal empire",
+    "Galactic Republic",
+    "Shadow Collective",
+    "Crymorah syndicate",
+    "Galactic Empire"
+  ],
+  "formerAffiliations": []
+}

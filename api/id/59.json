@@ -1,0 +1,22 @@
+{
+  "id": 59,
+  "name": "Mas Amedda",
+  "height": 1.96,
+  "gender": "male",
+  "homeworld": "champala",
+  "wiki": "http://starwars.wikia.com/wiki/Mas_Amedda",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/3/37/Mas_Amedda_SWCT.png",
+  "species": "chagrian",
+  "eyeColor": "blue",
+  "skinColor": "blue",
+  "affiliations": [
+    "Galactic Republic",
+    "Galactic Senate",
+    "Office of the Chancellor",
+    "Strategic Advisory Cell",
+    "Galactic Empire",
+    "Imperial Ruling Council",
+    "Coruscant provisional government"
+  ],
+  "formerAffiliations": []
+}

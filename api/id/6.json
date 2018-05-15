@@ -1,0 +1,21 @@
+{
+  "id": 6,
+  "name": "Owen Lars",
+  "height": 1.7,
+  "mass": 120,
+  "gender": "male",
+  "homeworld": "tatooine",
+  "wiki": "http://starwars.wikia.com/wiki/Owen_Lars",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/OwenCardTrader.png",
+  "died": 0,
+  "diedLocation": "tatooine",
+  "species": "human",
+  "hairColor": "brown, later gray",
+  "eyeColor": "blue",
+  "skinColor": "light",
+  "affiliations": [
+    "Lars family"
+  ],
+  "born": -52,
+  "formerAffiliations": []
+}

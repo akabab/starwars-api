@@ -1,0 +1,16 @@
+{
+  "id": 38,
+  "name": "Rugor Nass",
+  "height": 2.06,
+  "gender": "male",
+  "homeworld": "naboo",
+  "wiki": "http://starwars.wikia.com/wiki/Rugor_Nass",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d8/Bossnass.jpg",
+  "species": "gungan",
+  "eyeColor": "yellow",
+  "skinColor": "green",
+  "affiliations": [
+    "Gungan High Council"
+  ],
+  "formerAffiliations": []
+}

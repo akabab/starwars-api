@@ -1,0 +1,18 @@
+{
+  "id": 40,
+  "name": "Watto",
+  "height": 1.37,
+  "gender": "male",
+  "homeworld": "toydaria",
+  "wiki": "http://starwars.wikia.com/wiki/Watto",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/WattoHS.jpg",
+  "species": "toydarian",
+  "eyeColor": "orange",
+  "skinColor": "blue",
+  "affiliations": [
+    "Watto's shop",
+    "Mos Espa"
+  ],
+  "hairColor": "black",
+  "formerAffiliations": []
+}

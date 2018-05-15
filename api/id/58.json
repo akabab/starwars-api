@@ -1,0 +1,24 @@
+{
+  "id": 58,
+  "name": "Plo Koon",
+  "height": 1.88,
+  "mass": 80,
+  "gender": "male",
+  "homeworld": "dorin",
+  "wiki": "http://starwars.wikia.com/wiki/Plo_Koon",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/b/bf/PloKoonCardTrader.png",
+  "died": -19,
+  "diedLocation": "cato neimoidia",
+  "species": "kel dor",
+  "skinColor": "orange",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Jedi assault team",
+    "Galactic Republic",
+    "104th Battalion"
+  ],
+  "eyeColor": "black",
+  "born": -22,
+  "formerAffiliations": []
+}

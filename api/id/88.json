@@ -1,0 +1,21 @@
+{
+  "id": 88,
+  "name": "Captain Phasma",
+  "height": 2,
+  "mass": 76,
+  "gender": "female",
+  "homeworld": "parnassos",
+  "wiki": "http://starwars.wikia.com/wiki/Phasma",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/0/02/Phasma.png",
+  "species": "human",
+  "hairColor": "gold",
+  "eyeColor": "blue",
+  "skinColor": "pale",
+  "affiliations": [
+    "Unidentified clan",
+    "Scyre",
+    "First Order",
+    "First Order military"
+  ],
+  "formerAffiliations": []
+}

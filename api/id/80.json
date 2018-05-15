@@ -1,0 +1,18 @@
+{
+  "id": 80,
+  "name": "Tarfful",
+  "height": 2.32,
+  "mass": 136,
+  "gender": "male",
+  "homeworld": "kashyyyk",
+  "wiki": "http://starwars.wikia.com/wiki/Tarfful",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/3/37/Tarfful_RotS.png",
+  "species": "wookiee",
+  "hairColor": "brown",
+  "eyeColor": "blue",
+  "affiliations": [
+    "Galactic Republic"
+  ],
+  "skinColor": "brown",
+  "formerAffiliations": []
+}

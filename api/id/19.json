@@ -1,0 +1,23 @@
+{
+  "id": 19,
+  "name": "Jek Tono Porkins",
+  "height": 1.8,
+  "mass": 110,
+  "gender": "male",
+  "homeworld": "bestine",
+  "wiki": "http://starwars.wikia.com/wiki/Jek_Tono_Porkins",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/JekPorkins-DB.png",
+  "died": 0,
+  "diedLocation": "yavin system",
+  "species": "human",
+  "skinColor": "light",
+  "affiliations": [
+    "Alliance to Restore the Republic",
+    "Tierfon Yellow Aces",
+    "Red Squadron",
+    "Massassi Group"
+  ],
+  "hairColor": "brown",
+  "eyeColor": "blue",
+  "formerAffiliations": []
+}

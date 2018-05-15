@@ -1,0 +1,21 @@
+{
+  "id": 61,
+  "name": "Cordé",
+  "height": 1.57,
+  "gender": "female",
+  "homeworld": "naboo",
+  "wiki": "http://starwars.wikia.com/wiki/Cord%C3%A9",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/b/b6/Cord%C3%A9_-_SW_Card_Trader.png",
+  "died": -22,
+  "diedLocation": "coruscant",
+  "species": "human",
+  "hairColor": "brown",
+  "eyeColor": "brown",
+  "skinColor": "light",
+  "affiliations": [
+    "Royal House of Naboo",
+    "Naboo Royal Handmaidens",
+    "Galactic Republic"
+  ],
+  "formerAffiliations": []
+}

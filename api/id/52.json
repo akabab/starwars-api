@@ -1,0 +1,25 @@
+{
+  "id": 52,
+  "name": "Ki-Adi-Mundi",
+  "height": 1.98,
+  "mass": 82,
+  "gender": "male",
+  "homeworld": "cerea",
+  "wiki": "http://starwars.wikia.com/wiki/Ki-Adi-Mundi",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/9/9e/KiAdiMundi.jpg",
+  "died": -19,
+  "diedLocation": "mygeeto",
+  "species": "cerean",
+  "hairColor": "white",
+  "eyeColor": "yellow",
+  "skinColor": "light",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Jedi assault team",
+    "Galactic Republic",
+    "Galactic Marines"
+  ],
+  "born": -92,
+  "formerAffiliations": []
+}

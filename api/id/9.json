@@ -1,0 +1,25 @@
+{
+  "id": 9,
+  "name": "Biggs Darklighter",
+  "height": 1.83,
+  "mass": 84,
+  "gender": "male",
+  "homeworld": "tatooine",
+  "wiki": "http://starwars.wikia.com/wiki/Biggs_Darklighter",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/0/00/BiggsHS-ANH.png",
+  "died": 0,
+  "diedLocation": "yavin system",
+  "species": "human",
+  "hairColor": "black",
+  "eyeColor": "hazel",
+  "affiliations": [
+    "Galactic Empire",
+    "Prefsbelt Fleet Camp",
+    "Alliance to Restore the Republic",
+    "Red Squadron",
+    "Massassi Group"
+  ],
+  "skinColor": "light",
+  "born": -24,
+  "formerAffiliations": []
+}

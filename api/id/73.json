@@ -1,0 +1,16 @@
+{
+  "id": 73,
+  "name": "Taun We",
+  "height": 2.13,
+  "gender": "female",
+  "homeworld": "kamino",
+  "wiki": "http://starwars.wikia.com/wiki/Taun_We",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/9/9c/TaunWe.jpg",
+  "species": "kaminoan",
+  "eyeColor": "black with white pupils",
+  "skinColor": "white",
+  "affiliations": [
+    "Galactic Republic"
+  ],
+  "formerAffiliations": []
+}

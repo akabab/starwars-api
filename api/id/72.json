@@ -1,0 +1,17 @@
+{
+  "id": 72,
+  "name": "Lama Su",
+  "height": 2.29,
+  "mass": 88,
+  "gender": "male",
+  "homeworld": "kamino",
+  "wiki": "http://starwars.wikia.com/wiki/Lama_Su",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/7/73/Lama_Su.jpg",
+  "species": "kaminoan",
+  "eyeColor": "black with white pupils",
+  "skinColor": "white",
+  "affiliations": [
+    "Galactic Republic"
+  ],
+  "formerAffiliations": []
+}

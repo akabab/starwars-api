@@ -1,0 +1,24 @@
+{
+  "id": 78,
+  "name": "Shaak Ti",
+  "height": 1.87,
+  "mass": 57,
+  "gender": "female",
+  "homeworld": "shili",
+  "wiki": "http://starwars.wikia.com/wiki/Shaak_Ti",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/2/20/Shaak_Ti_closeup-SWE.png",
+  "born": -59,
+  "died": -19,
+  "diedLocation": "coruscant",
+  "species": "togruta",
+  "eyeColor": "black",
+  "skinColor": "red (with white markings and gray stripes)",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Jedi assault team",
+    "Galactic Republic",
+    "Grand Army of the Republic"
+  ],
+  "formerAffiliations": []
+}

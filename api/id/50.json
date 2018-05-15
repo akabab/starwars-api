@@ -1,0 +1,15 @@
+{
+  "id": 50,
+  "name": "Ben Quadinaros",
+  "height": 1.63,
+  "mass": 65,
+  "gender": "male",
+  "homeworld": "tund",
+  "wiki": "http://starwars.wikia.com/wiki/Ben_Quadinaros",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7f/Cropped_Quadinaros.png",
+  "species": "toong",
+  "eyeColor": "orange",
+  "skinColor": "yellow",
+  "affiliations": [],
+  "formerAffiliations": []
+}

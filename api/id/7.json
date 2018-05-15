@@ -1,0 +1,19 @@
+{
+  "id": 7,
+  "name": "Beru Whitesun lars",
+  "height": 1.65,
+  "mass": 75,
+  "gender": "female",
+  "homeworld": "tatooine",
+  "wiki": "http://starwars.wikia.com/wiki/Beru_Whitesun_Lars",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/c/cc/BeruCardTrader.png",
+  "died": 0,
+  "diedLocation": "tatooine",
+  "species": "human",
+  "hairColor": "brown",
+  "eyeColor": "blue",
+  "skinColor": "light",
+  "born": -47,
+  "affiliations": [],
+  "formerAffiliations": []
+}

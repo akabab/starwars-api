@@ -1,0 +1,19 @@
+{
+  "id": 57,
+  "name": "Yarael Poof",
+  "height": 2.64,
+  "gender": "male",
+  "homeworld": "quermia",
+  "wiki": "http://starwars.wikia.com/wiki/Yarael_Poof",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/6/66/Yarael_Poof_Canon.jpeg",
+  "died": -27,
+  "species": "quermian",
+  "eyeColor": "red",
+  "skinColor": "pasty white",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Galactic Republic"
+  ],
+  "formerAffiliations": []
+}

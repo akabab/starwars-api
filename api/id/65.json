@@ -1,0 +1,23 @@
+{
+  "id": 65,
+  "name": "Barriss Offee",
+  "height": 1.66,
+  "mass": 50,
+  "gender": "female",
+  "homeworld": "mirial",
+  "wiki": "http://starwars.wikia.com/wiki/Barriss_Offee",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/3/37/Barrisprofile2.jpg",
+  "species": "mirialan",
+  "hairColor": "black",
+  "eyeColor": "blue",
+  "skinColor": "yellow (with black tattoos)",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi assault team",
+    "Galactic Republic",
+    "Grand Army of the Republic"
+  ],
+  "masters": "Luminara Unduli",
+  "born": -40,
+  "formerAffiliations": []
+}

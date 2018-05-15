@@ -1,0 +1,21 @@
+{
+  "id": 77,
+  "name": "San Hill",
+  "height": 1.91,
+  "gender": "male",
+  "homeworld": "scipio",
+  "wiki": "http://starwars.wikia.com/wiki/San_Hill",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/6/6f/SanHill_hs.jpg",
+  "died": -19,
+  "diedLocation": "mustafar",
+  "species": "muun",
+  "eyeColor": "yellow",
+  "skinColor": "pale",
+  "affiliations": [
+    "InterGalactic Banking Clan",
+    "Muunilinst Banking Clan",
+    "Confederacy of Independent Systems",
+    "Separatist Council"
+  ],
+  "formerAffiliations": []
+}

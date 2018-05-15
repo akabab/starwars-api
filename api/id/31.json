@@ -1,0 +1,22 @@
+{
+  "id": 31,
+  "name": "Nien Nunb",
+  "height": 1.6,
+  "mass": 68,
+  "gender": "male",
+  "homeworld": "sullust",
+  "wiki": "http://starwars.wikia.com/wiki/Nien_Nunb",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/1/14/Old_nien_nunb_-_profile.png",
+  "species": "sullustan",
+  "eyeColor": "black",
+  "skinColor": "light",
+  "affiliations": [
+    "House of Organa",
+    "Alliance to Restore the Republic",
+    "Gold Squadron",
+    "New Republic",
+    "Resistance",
+    "Red Squadron"
+  ],
+  "formerAffiliations": []
+}

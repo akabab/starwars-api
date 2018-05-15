@@ -1,0 +1,28 @@
+{
+  "id": 87,
+  "name": "BB8",
+  "height": 0.67,
+  "mass": 18,
+  "gender": "male",
+  "species": "droid",
+  "wiki": "http://starwars.wikia.com/wiki/BB-8",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/6/68/BB8-Fathead.png",
+  "model": "BB-series",
+  "class": "Astromech droid",
+  "sensorColor": "black",
+  "platingColor": "stainless inoxium",
+  "equipment": [
+    "Grappling Spike Launcher",
+    "Welding torch",
+    "Holoprojector",
+    "Arc welder"
+  ],
+  "affiliations": [
+    "New Republic",
+    "Rapier Squadron",
+    "Resistance",
+    "Black Squadron"
+  ],
+  "eyeColor": "black",
+  "formerAffiliations": []
+}

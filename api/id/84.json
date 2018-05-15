@@ -1,0 +1,20 @@
+{
+  "id": 84,
+  "name": "Finn",
+  "height": 1.78,
+  "mass": 73,
+  "gender": "male",
+  "wiki": "http://starwars.wikia.com/wiki/Finn",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/a/af/Finn_TLJ_Collector%27s_Edition.png",
+  "born": 11,
+  "species": "human",
+  "hairColor": "black",
+  "eyeColor": "brown",
+  "skinColor": "dark",
+  "affiliations": [
+    "First Order",
+    "FN Corps",
+    "Resistance"
+  ],
+  "formerAffiliations": []
+}

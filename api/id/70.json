@@ -1,0 +1,21 @@
+{
+  "id": 70,
+  "name": "Zam Wesell",
+  "height": 1.68,
+  "mass": 55,
+  "gender": "female",
+  "homeworld": "zolan",
+  "wiki": "http://starwars.wikia.com/wiki/Zam_Wesell",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7d/Clawdite.jpg",
+  "died": -22,
+  "diedLocation": "coruscant",
+  "species": "clawdite",
+  "skinColor": "green",
+  "affiliations": [
+    "Mabari",
+    "Confederacy of Independent Systems"
+  ],
+  "hairColor": "blond",
+  "eyeColor": "yellow",
+  "formerAffiliations": []
+}

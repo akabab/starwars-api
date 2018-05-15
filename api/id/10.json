@@ -1,0 +1,33 @@
+{
+  "id": 10,
+  "name": "Obi-Wan Kenobi",
+  "height": 1.82,
+  "mass": 81,
+  "gender": "male",
+  "homeworld": "stewjon",
+  "wiki": "http://starwars.wikia.com/wiki/Obi-Wan_Kenobi",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4e/ObiWanHS-SWE.jpg",
+  "born": -57,
+  "died": 0,
+  "diedLocation": "death star, alderaan system",
+  "species": "human",
+  "hairColor": "light brown, later white",
+  "eyeColor": "gray-blue",
+  "skinColor": "light",
+  "affiliations": [
+    "Jedi Order",
+    "Jedi High Council",
+    "Galactic Republic",
+    "212th Attack Battalion",
+    "Alliance to Restore the Republic"
+  ],
+  "masters": [
+    "Qui-Gon Jinn",
+    "Yoda"
+  ],
+  "apprentices": [
+    "Anakin Skywalker",
+    "Luke Skywalker"
+  ],
+  "formerAffiliations": []
+}

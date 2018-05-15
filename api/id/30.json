@@ -1,0 +1,20 @@
+{
+  "id": 30,
+  "name": "Wicket Systri Warrick",
+  "height": 0.8,
+  "mass": 20,
+  "gender": "male",
+  "homeworld": "endor",
+  "wiki": "http://starwars.wikia.com/wiki/Wicket_W._Warrick",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4f/Wicket_RotJ.png",
+  "species": "ewok",
+  "hairColor": "brown",
+  "eyeColor": "brownish black",
+  "affiliations": [
+    "Bright Tree tribe",
+    "Alliance to Restore the Republic"
+  ],
+  "skinColor": "brown",
+  "born": -8,
+  "formerAffiliations": []
+}

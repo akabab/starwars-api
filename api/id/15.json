@@ -1,0 +1,23 @@
+{
+  "id": 15,
+  "name": "Greedo",
+  "height": 1.74,
+  "mass": 74,
+  "gender": "male",
+  "homeworld": [
+    "Rodia",
+    "Tatooine"
+  ],
+  "wiki": "http://starwars.wikia.com/wiki/Greedo",
+  "image": "https://vignette.wikia.nocookie.net/starwars/images/c/c6/Greedo.jpg",
+  "died": 0,
+  "diedLocation": "tatooine",
+  "species": "rodian",
+  "eyeColor": "purple",
+  "skinColor": "green",
+  "affiliations": [
+    "Trade Federation"
+  ],
+  "born": -44,
+  "formerAffiliations": []
+}
