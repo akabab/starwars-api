@@ -7,7 +7,7 @@ StarWars characters open-source REST API
 
 or cached CDN (faster)
 
-`https://cdn.rawgit.com/akabab/starwars-api/0.2.1/api`
+`https://rawcdn.githack.com/akabab/starwars-api/0.2.1/api`
 
 
 ### [routes](#routes-1)
