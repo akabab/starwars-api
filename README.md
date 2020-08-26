@@ -21,12 +21,12 @@ or cached CDN (faster)
 ##### `/all.json`
 GET all characters as a single JSON object
 
-eg. [`/all.json`](https://cdn.rawgit.com/akabab/starwars-api/0.2.1/api/all.json)
+eg. [`/all.json`](https://akabab.github.io/starwars-api/api/all.json)
 
 ##### `/id`
 GET character complete informations by id
 
-eg. [`/id/1.json`](https://cdn.rawgit.com/akabab/starwars-api/0.2.1/api/id/1.json)
+eg. [`/id/1.json`](https://akabab.github.io/starwars-api/api/id/1.json)
 ```json
 {
   "id": 1,
