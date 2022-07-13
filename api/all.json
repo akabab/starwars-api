@@ -29,7 +29,7 @@
       "New Republic",
       "Resistance"
     ],
-    "masters": [
+    "master": [
       "Obi-Wan Kenobi",
       "Yoda"
     ],
@@ -80,6 +80,8 @@
     "skinColor": "gold",
     "eyeColor": "yellow",
     "born": -112,
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -87,6 +89,7 @@
     "name": "R2-D2",
     "height": 1.09,
     "mass": 32,
+    "master": [],
     "gender": "male",
     "homeworld": "naboo",
     "species": "droid",
@@ -129,6 +132,7 @@
     "skinColor": "white, blue",
     "eyeColor": "red",
     "born": -33,
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -154,7 +158,7 @@
       "Galactic Empire",
       "Imperial High Command"
     ],
-    "masters": [
+    "master": [
       "Qui-Gon Jinn (informal Jedi Master)",
       "Obi-Wan Kenobi (Jedi Master)",
       "Darth Sidious (Sith Master)",
@@ -200,7 +204,10 @@
       "Populists",
       "Resistance"
     ],
-    "masters": "Luke Skywalker",
+    "master": [
+      "Luke Skywalker"
+    ],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -222,6 +229,8 @@
       "Lars family"
     ],
     "born": -52,
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -241,6 +250,8 @@
     "skinColor": "light",
     "born": -47,
     "affiliations": [],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -263,6 +274,8 @@
     ],
     "skinColor": "white, red",
     "eyeColor": "red",
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -288,6 +301,8 @@
     ],
     "skinColor": "light",
     "born": -24,
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -313,7 +328,7 @@
       "212th Attack Battalion",
       "Alliance to Restore the Republic"
     ],
-    "masters": [
+    "master": [
       "Qui-Gon Jinn",
       "Yoda"
     ],
@@ -346,7 +361,7 @@
       "Galactic Empire",
       "Imperial High Command"
     ],
-    "masters": [
+    "master": [
       "Qui-Gon Jinn (informal Jedi Master)",
       "Obi-Wan Kenobi (Jedi Master)",
       "Darth Sidious (Sith Master)",
@@ -377,6 +392,7 @@
     "hairColor": "auburn, later gray",
     "eyeColor": "gray-blue",
     "skinColor": "light",
+    "master": [],
     "affiliations": [
       "Galactic Republic",
       "Sullust Sector Spacefarers Academy",
@@ -391,6 +407,7 @@
       "Imperial Navy",
       "Tarkin Initiative"
     ],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -407,6 +424,7 @@
     "species": "wookiee",
     "hairColor": "brown",
     "eyeColor": "blue",
+    "master": [],
     "affiliations": [
       "Galactic Republic",
       "Alliance to Restore the Republic",
@@ -417,6 +435,7 @@
       "New Republic",
       "Resistance"
     ],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -436,6 +455,7 @@
     "hairColor": "brown, later gray",
     "eyeColor": "hazel",
     "skinColor": "light",
+    "master": [],
     "affiliations": [
       "Galactic Empire",
       "Jabba Desilijic Tiure's criminal empire",
@@ -449,6 +469,7 @@
       "Han Solo's shipping company",
       "Resistance"
     ],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -457,10 +478,7 @@
     "height": 1.74,
     "mass": 74,
     "gender": "male",
-    "homeworld": [
-      "Rodia",
-      "Tatooine"
-    ],
+    "homeworld": "Tatooine",
     "wiki": "http://starwars.wikia.com/wiki/Greedo",
     "image": "https://vignette.wikia.nocookie.net/starwars/images/c/c6/Greedo.jpg",
     "died": 0,
@@ -468,6 +486,8 @@
     "species": "rodian",
     "eyeColor": "purple",
     "skinColor": "green",
+    "master": [],
+    "apprentices": [],
     "affiliations": [
       "Trade Federation"
     ],
@@ -499,6 +519,8 @@
       "Crymorah syndicate",
       "Galactic Empire"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -525,6 +547,8 @@
       "Phantom Squadron"
     ],
     "born": -21,
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -548,6 +572,8 @@
     ],
     "hairColor": "brown",
     "eyeColor": "blue",
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -571,7 +597,7 @@
       "Galactic Republic",
       "Grand Army of the Republic"
     ],
-    "masters": [
+    "master": [
       "Unidentified Jedi (Jedi Master)",
       "Garro (stonepower master)",
       "Qui-Gon Jinn (as Force spirit)"
@@ -620,7 +646,9 @@
       "Galactic Empire",
       "Dark Empire"
     ],
-    "masters": "Darth Plagueis",
+    "master": [
+      "Darth Plagueis"
+    ],
     "apprentices": [
       "Darth Maul",
       "A Nikto",
@@ -656,6 +684,8 @@
       "Jabba Desilijic Tiure's criminal empire",
       "Galactic Empire"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -694,9 +724,11 @@
       "Sound sensor",
       "Vocoder"
     ],
+    "master": [],
     "skinColor": "metal",
     "eyeColor": "red",
     "born": -15,
+    "apprentices": [],
     "affiliations": [],
     "formerAffiliations": []
   },
@@ -719,6 +751,8 @@
       "Chelli Aphra's crew"
     ],
     "born": -53,
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -745,6 +779,8 @@
       "Uprising",
       "Calrissian Enterprises"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -768,6 +804,8 @@
       "New Republic"
     ],
     "born": -37,
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -800,6 +838,8 @@
       "Resistance Fleet Command",
       "Resistance navy"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -825,6 +865,8 @@
       "Alliance to Restore the Republic",
       "New Republic"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -842,6 +884,8 @@
       "Alliance to Restore the Republic",
       "Green Squadron"
     ],
+    "master": [],
+    "apprentices": [],
     "hairColor": "brown",
     "formerAffiliations": []
   },
@@ -863,6 +907,8 @@
     ],
     "skinColor": "brown",
     "born": -8,
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -885,6 +931,8 @@
       "Resistance",
       "Red Squadron"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -906,7 +954,9 @@
       "Jedi Order",
       "Galactic Republic"
     ],
-    "masters": "Dooku",
+    "master": [
+      "Dooku"
+    ],
     "apprentices": [
       "Obi-Wan Kenobi",
       "Anakin Skywalker (informally)",
@@ -934,6 +984,8 @@
       "Confederacy of Independent Systems",
       "Separatist Council"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -954,6 +1006,8 @@
       "Galactic Senate"
     ],
     "born": -91,
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -983,6 +1037,8 @@
       "Galactic Empire",
       "Imperial Senate"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1006,6 +1062,8 @@
       "Imperial Senate"
     ],
     "born": -52,
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1025,6 +1083,8 @@
     "affiliations": [
       "Gungan Grand Army"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1041,6 +1101,8 @@
     "affiliations": [
       "Gungan High Council"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1059,6 +1121,8 @@
       "Royal Naboo Security Forces",
       "Bravo Flight"
     ],
+    "master": [],
+    "apprentices": [],
     "skinColor": "fair",
     "formerAffiliations": []
   },
@@ -1077,7 +1141,9 @@
       "Watto's shop",
       "Mos Espa"
     ],
+    "master": [],
     "hairColor": "black",
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1093,6 +1159,8 @@
     "eyeColor": "yellow",
     "skinColor": "purple and beige",
     "affiliations": [],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1116,7 +1184,9 @@
       "Republic Special Task Force",
       "Galactic Empire"
     ],
+    "master": [],
     "born": -62,
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1138,6 +1208,8 @@
       "Skywalker family",
       "Lars family"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1165,8 +1237,12 @@
       "Death Watch",
       "Shadow Collective"
     ],
-    "masters": "Darth Sidious",
-    "apprentices": "Savage Opress",
+    "master": [
+      "Darth Sidious"
+    ],
+    "apprentices": [
+      "Savage Opress"
+    ],
     "born": -54,
     "formerAffiliations": [
       "Trade Federation"
@@ -1189,6 +1265,8 @@
       "Fortuna family",
       "Jabba Desilijic Tiure's criminal empire"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1211,11 +1289,12 @@
       "Jedi Order",
       "Galactic Republic"
     ],
-    "masters": [
+    "master": [
       "Quinlan Vos (Jedi Master)",
       "Volfe Karkko (Dark Jedi master) (briefly)",
       "Tholme (Jedi Master)"
     ],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1233,6 +1312,8 @@
     "eyeColor": "black",
     "skinColor": "blue, white",
     "affiliations": [],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1248,6 +1329,8 @@
     "eyeColor": "yellow",
     "skinColor": "blue-gray, yellow, white",
     "affiliations": [],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1262,6 +1345,8 @@
     "eyeColor": "black",
     "skinColor": "white, brown, purple",
     "affiliations": [],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1277,6 +1362,8 @@
     "eyeColor": "orange",
     "skinColor": "yellow",
     "affiliations": [],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1303,8 +1390,12 @@
       "Galactic Republic",
       "Grand Army of the Republic"
     ],
-    "masters": "Cyslin Myr",
-    "apprentices": "Depa Billaba",
+    "master": [
+      "Cyslin Myr"
+    ],
+    "apprentices": [
+      "Depa Billaba"
+    ],
     "formerAffiliations": []
   },
   {
@@ -1330,6 +1421,8 @@
       "Galactic Marines"
     ],
     "born": -92,
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1353,7 +1446,10 @@
       "Mace Windu's squad",
       "Galactic Republic"
     ],
-    "apprentices": "Nahdar Vebb",
+    "master": [],
+    "apprentices": [
+      "Nahdar Vebb"
+    ],
     "formerAffiliations": []
   },
   {
@@ -1374,6 +1470,8 @@
       "Jedi assault team",
       "Galactic Republic"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1397,6 +1495,8 @@
       "Galactic Republic",
       "Grand Army of the Republic"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1419,6 +1519,8 @@
       "Galactic Republic",
       "Grand Army of the Republic"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1438,6 +1540,8 @@
       "Jedi High Council",
       "Galactic Republic"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1460,8 +1564,10 @@
       "Galactic Republic",
       "104th Battalion"
     ],
+    "master": [],
     "eyeColor": "black",
     "born": -22,
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1484,6 +1590,8 @@
       "Imperial Ruling Council",
       "Coruscant provisional government"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1503,6 +1611,8 @@
       "Royal Naboo Security Forces",
       "Galactic Republic"
     ],
+    "master": [],
+    "apprentices": [],
     "skinColor": "dark",
     "formerAffiliations": []
   },
@@ -1525,6 +1635,8 @@
       "Naboo Royal Handmaidens",
       "Galactic Republic"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1543,7 +1655,9 @@
     "affiliations": [
       "Lars family"
     ],
+    "master": [],
     "born": -82,
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1567,6 +1681,8 @@
       "Separatist Council",
       "Galactic Republic"
     ],
+    "master": [],
+    "apprentices": [],
     "skinColor": "green",
     "formerAffiliations": []
   },
@@ -1590,7 +1706,10 @@
       "Galactic Republic",
       "41st Elite Corps"
     ],
-    "apprentices": "Barriss Offee",
+    "master": [],
+    "apprentices": [
+      "Barriss Offee"
+    ],
     "born": -58,
     "formerAffiliations": []
   },
@@ -1613,8 +1732,11 @@
       "Galactic Republic",
       "Grand Army of the Republic"
     ],
-    "masters": "Luminara Unduli",
+    "master": [
+      "Luminara Unduli"
+    ],
     "born": -40,
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1634,6 +1756,8 @@
       "Naboo Royal Handmaidens",
       "Galactic Republic"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1659,7 +1783,7 @@
       "Independent Movement for Self-Determination",
       "Confederacy of Independent Systems"
     ],
-    "masters": [
+    "master": [
       "Yoda (Jedi)",
       "Darth Sidious (Sith)"
     ],
@@ -1712,6 +1836,8 @@
       "Kota's Militia",
       "Alliance to Restore the Republic"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1733,7 +1859,9 @@
       "Confederacy of Independent Systems",
       "Tyranus"
     ],
+    "master": [],
     "born": -66,
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1753,8 +1881,10 @@
       "Mabari",
       "Confederacy of Independent Systems"
     ],
+    "master": [],
     "hairColor": "blond",
     "eyeColor": "yellow",
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1773,6 +1903,8 @@
     "affiliations": [
       "Dex's Diner"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1790,6 +1922,8 @@
     "affiliations": [
       "Galactic Republic"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1806,6 +1940,8 @@
     "affiliations": [
       "Galactic Republic"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1826,6 +1962,8 @@
       "Jedi Order",
       "Jedi High Council"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1846,6 +1984,8 @@
     "affiliations": [
       "Galactic Republic"
     ],
+    "apprentices": [],
+    "master": [],
     "skinColor": "silver, red",
     "eyeColor": "red, blue",
     "formerAffiliations": []
@@ -1870,6 +2010,8 @@
       "Confederacy of Independent Systems",
       "Separatist Council"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1891,6 +2033,8 @@
       "Confederacy of Independent Systems",
       "Separatist Council"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1915,6 +2059,8 @@
       "Galactic Republic",
       "Grand Army of the Republic"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1936,7 +2082,10 @@
       "Confederacy of Independent Systems",
       "Separatist Droid Army"
     ],
-    "masters": "Dooku (lightsaber combat)",
+    "apprentices": [],
+    "master": [
+      "Dooku (lightsaber combat)"
+    ],
     "formerAffiliations": []
   },
   {
@@ -1954,7 +2103,9 @@
     "affiliations": [
       "Galactic Republic"
     ],
+    "master": [],
     "skinColor": "brown",
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1977,6 +2128,8 @@
       "Alliance to Restore the Republic",
       "Alliance Military"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -1996,6 +2149,8 @@
       "Office of the Chancellor",
       "Galactic Empire"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -2013,6 +2168,8 @@
     "affiliations": [
       "Galactic Republic"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -2033,11 +2190,13 @@
       "FN Corps",
       "Resistance"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
     "id": 85,
-    "name": "Rey",
+    "name": "Rey Skywalker",
     "height": 1.7,
     "mass": 54,
     "gender": "female",
@@ -2053,7 +2212,10 @@
       "Resistance",
       "Jedi Order"
     ],
-    "masters": "Luke Skywalker",
+    "master": [
+      "Luke Skywalker"
+    ],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -2080,6 +2242,8 @@
       "Red Squadron",
       "\"Reb\" Squadron"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   },
   {
@@ -2101,12 +2265,14 @@
       "Holoprojector",
       "Arc welder"
     ],
+    "apprentices": [],
     "affiliations": [
       "New Republic",
       "Rapier Squadron",
       "Resistance",
       "Black Squadron"
     ],
+    "master": [],
     "eyeColor": "black",
     "formerAffiliations": []
   },
@@ -2129,6 +2295,8 @@
       "First Order",
       "First Order military"
     ],
+    "master": [],
+    "apprentices": [],
     "formerAffiliations": []
   }
 ]
